@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 2b19c6e6596ee7649bcf6aa6d2c8eab7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2647280880376475276
+    second: Joustic_0
+  - first:
+      213: -3128223598382805444
+    second: Joustic_2
+  - first:
+      213: -5468556009409860754
+    second: Joustic_3
+  - first:
+      213: -7851685717352041086
+    second: Joustic_1
+  - first:
+      213: -8266585884052055402
+    second: Joustic_4
+  - first:
+      213: 5736103551427281479
+    second: Joustic_5
+  - first:
+      213: -594935430081694427
+    second: Joustic_6
+  - first:
+      213: 5749163883029291851
+    second: Joustic_7
+  - first:
+      213: -6478152247839331029
+    second: Joustic_8
+  - first:
+      213: -5221973682656902932
+    second: Joustic_9
+  - first:
+      213: -3568603293734591671
+    second: Joustic_10
+  - first:
+      213: 8735242644272513549
+    second: Joustic_11
+  - first:
+      213: -6722045386893408210
+    second: Joustic_12
+  - first:
+      213: -7498666576497418016
+    second: Joustic_13
+  - first:
+      213: 5110927508335039691
+    second: Joustic_14
+  - first:
+      213: -8375358545915162358
+    second: Joustic_15
+  - first:
+      213: 6966835008337092055
+    second: Joustic_16
+  - first:
+      213: -6704764752900565803
+    second: Joustic_17
+  - first:
+      213: -2720628669841024171
+    second: Joustic_18
+  - first:
+      213: -617875342974844432
+    second: Joustic_19
+  - first:
+      213: -6417450814442669785
+    second: Joustic_20
+  - first:
+      213: -5502812340752126897
+    second: Joustic_21
+  - first:
+      213: 5125972844247074428
+    second: Joustic_22
+  - first:
+      213: -5994050475565028519
+    second: Joustic_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Joustic_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2952
+        width: 1085
+        height: 1104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ee58f4fe70db420800000000000000
+      internalID: 2647280880376475276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_2
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3294
+        width: 418
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e066816315694d0800000000000000
+      internalID: -3128223598382805444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_4
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1640
+        width: 1194
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a91dbcfef274d80800000000000000
+      internalID: -8266585884052055402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1291
+        width: 213
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7420ea1f9cbba9f40800000000000000
+      internalID: 5736103551427281479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1338
+        width: 224
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525bfa1e06d5eb7f0800000000000000
+      internalID: -594935430081694427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1296
+        width: 70
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43677b571229cf40800000000000000
+      internalID: 5749163883029291851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1058
+        width: 156
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d63a27adaf816a0800000000000000
+      internalID: -6478152247839331029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1044
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce00cc25a92d787b0800000000000000
+      internalID: -5221973682656902932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_10
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1042
+        width: 213
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94329ac2636c97ec0800000000000000
+      internalID: -3568603293734591671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 762
+        width: 148
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e284a26e55f76b2a0800000000000000
+      internalID: -6722045386893408210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 762
+        width: 188
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0e6c27a726fe790800000000000000
+      internalID: -7498666576497418016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_14
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 762
+        width: 217
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4151f6d79ade640800000000000000
+      internalID: 5110927508335039691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_18
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1338
+        width: 232
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bd168a3a26e3ad0800000000000000
+      internalID: -2720628669841024171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_16
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1310
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd10b8378b2fa060800000000000000
+      internalID: 6966835008337092055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_17
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1310
+        width: 182
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d45dc80bf3e3f2a0800000000000000
+      internalID: -6704764752900565803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_19
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1050
+        width: 226
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1038236addc67f0800000000000000
+      internalID: -617875342974844432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_20
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1062
+        width: 289
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7297a914c72a0f6a0800000000000000
+      internalID: -6417450814442669785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_21
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 786
+        width: 220
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c65dbc45512a3b0800000000000000
+      internalID: -5502812340752126897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_22
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 798
+        width: 148
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7645ada42d132740800000000000000
+      internalID: 5125972844247074428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joustic_23
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 3036
+        width: 1334
+        height: 854
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b6f2ea9dad0dca0800000000000000
+      internalID: -5994050475565028519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Joustic_12: -6722045386893408210
+      Joustic_18: -2720628669841024171
+      Joustic_19: -617875342974844432
+      Joustic_16: 6966835008337092055
+      Joustic_13: -7498666576497418016
+      Joustic_23: -5994050475565028519
+      Joustic_2: -3128223598382805444
+      Joustic_22: 5125972844247074428
+      Joustic_21: -5502812340752126897
+      Joustic_20: -6417450814442669785
+      Joustic_0: 2647280880376475276
+      Joustic_14: 5110927508335039691
+      Joustic_10: -3568603293734591671
+      Joustic_7: 5749163883029291851
+      Joustic_4: -8266585884052055402
+      Joustic_9: -5221973682656902932
+      Joustic_17: -6704764752900565803
+      Joustic_6: -594935430081694427
+      Joustic_8: -6478152247839331029
+      Joustic_5: 5736103551427281479
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: 57c2a75d76788e4468ddd22e72dc9861
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4760350020625174829
+    second: China Flag
+  - first:
+      213: 7590097944493757293
+    second: Italia Materic
+  - first:
+      213: -731542715379066718
+    second: China Materic
+  - first:
+      213: 7881419151526966814
+    second: Germania Flag
+  - first:
+      213: 53868141798047410
+    second: India Materic
+  - first:
+      213: 3002899696176538571
+    second: Russia Materic
+  - first:
+      213: -1873198423858041624
+    second: Italia Flag
+  - first:
+      213: -1572579894249026305
+    second: Japan Flag
+  - first:
+      213: 4519581034613071938
+    second: Russia Flag
+  - first:
+      213: 4576020635746442040
+    second: Countries_12
+  - first:
+      213: -3114404021761788366
+    second: Countries_13
+  - first:
+      213: -8145229790844641029
+    second: Countries_14
+  - first:
+      213: 8732647726745619878
+    second: Countries_15
+  - first:
+      213: 7640453706598460049
+    second: Countries_16
+  - first:
+      213: -7544650694020219602
+    second: USA Materic
+  - first:
+      213: -449998306196985485
+    second: Countries_18
+  - first:
+      213: 7806776017379639565
+    second: Shweden Flag
+  - first:
+      213: -2947000811311981477
+    second: Shweden Materic
+  - first:
+      213: -8377023288167892326
+    second: Countries_22
+  - first:
+      213: 4065414013765745439
+    second: Countries_23
+  - first:
+      213: 2944776450386584968
+    second: USA Flag
+  - first:
+      213: 4649073573739535110
+    second: Ukraina Flag
+  - first:
+      213: -4430492369499234313
+    second: Countries_26
+  - first:
+      213: 1853664531669602005
+    second: Countries_27
+  - first:
+      213: -2941324241894157548
+    second: Countries_28
+  - first:
+      213: 1596593246652979521
+    second: Countries_29
+  - first:
+      213: 6745356336472595051
+    second: Countries_30
+  - first:
+      213: -899038190266202330
+    second: Countries_31
+  - first:
+      213: 3996716116913088781
+    second: Countries_32
+  - first:
+      213: -1576006629104477298
+    second: Countries_33
+  - first:
+      213: 974052045957925540
+    second: Country Select
+  - first:
+      213: -3874365807600382364
+    second: Ukraina Materic
+  - first:
+      213: -1858900462188625199
+    second: India Flag
+  - first:
+      213: 6309939302099592102
+    second: Countries_10
+  - first:
+      213: 6800013729643621287
+    second: Japan Materic
+  - first:
+      213: -5478820619824710718
+    second: Germania Materic
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: China Flag
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1681
+        width: 632
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deec1ea0e6dfedb0800000000000000
+      internalID: -4760350020625174829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italia Materic
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1075
+        width: 498
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6319ffcdd1755960800000000000000
+      internalID: 7590097944493757293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: China Materic
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1681
+        width: 632
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a85ec7b6c909d5f0800000000000000
+      internalID: -731542715379066718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Germania Flag
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1616
+        width: 394
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b9b4f5fc606d60800000000000000
+      internalID: 7881419151526966814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: India Materic
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1628
+        width: 467
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be35902ac06fb000800000000000000
+      internalID: 53868141798047410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia Materic
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 1150
+        width: 575
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32bb61d517ca920800000000000000
+      internalID: 3002899696176538571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italia Flag
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1075
+        width: 498
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecae1845ff0106e0800000000000000
+      internalID: -1873198423858041624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Japan Flag
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 972
+        width: 497
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8d560be21d2ae0800000000000000
+      internalID: -1572579894249026305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia Flag
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1154
+        width: 575
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24064b55107c8be30800000000000000
+      internalID: 4519581034613071938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: USA Materic
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 567
+        width: 547
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d3584ca240c4790800000000000000
+      internalID: -7544650694020219602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shweden Flag
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 401
+        width: 333
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01c3fcfc6d375c60800000000000000
+      internalID: 7806776017379639565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shweden Materic
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 401
+        width: 333
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c16f040662a17d0800000000000000
+      internalID: -2947000811311981477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: USA Flag
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 569
+        width: 547
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8856a3c5492fdd820800000000000000
+      internalID: 2944776450386584968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ukraina Flag
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 509
+        width: 610
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b966198c3d48040800000000000000
+      internalID: 4649073573739535110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ukraina Materic
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 525
+        width: 610
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e4f0443dc7b3ac0800000000000000
+      internalID: -3874365807600382364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: India Flag
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1628
+        width: 467
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d20076e0ebd336e0800000000000000
+      internalID: -1858900462188625199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Japan Materic
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 970
+        width: 497
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abef2785708e5e50800000000000000
+      internalID: 6800013729643621287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Germania Materic
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1616
+        width: 394
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb334f9ca157f3b0800000000000000
+      internalID: -5478820619824710718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Russia Flag: 4519581034613071938
+      Germania Flag: 7881419151526966814
+      Japan Flag: -1572579894249026305
+      USA Flag: 2944776450386584968
+      China Flag: -4760350020625174829
+      Shweden Materic: -2947000811311981477
+      Japan Materic: 6800013729643621287
+      China Materic: -731542715379066718
+      Germania Materic: -5478820619824710718
+      Italia Materic: 7590097944493757293
+      Italia Flag: -1873198423858041624
+      Shweden Flag: 7806776017379639565
+      Ukraina Flag: 4649073573739535110
+      USA Materic: -7544650694020219602
+      Ukraina Materic: -3874365807600382364
+      Russia Materic: 3002899696176538571
+      India Flag: -1858900462188625199
+      India Materic: 53868141798047410
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

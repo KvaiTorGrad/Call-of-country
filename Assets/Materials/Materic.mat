@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Materic
+  m_Shader: {fileID: 4800000, guid: 41c69452dba90dc41bc1c905915c41d2, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - AuraDisplacementPack_1:
+        m_Texture: {fileID: 2800000, guid: 2e52e8594dd87a14e8f10d3c24f48e80, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - DisplacementPack_1:
+        m_Texture: {fileID: 2800000, guid: dc4e34c090d76bb46b9e941112c487e5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - MorphingPack2_1:
+        m_Texture: {fileID: 2800000, guid: dc4e34c090d76bb46b9e941112c487e5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - MorphingPack3_1:
+        m_Texture: {fileID: 2800000, guid: d48b8a2102201f646a0ccc191b6de62d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - MorphingPack_1:
+        m_Texture: {fileID: 2800000, guid: 30a8fd2b2dee8e54090ff5b729909db2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - PatternMovementPackMask_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - PatternMovementPack_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceRenderTextureTex_6:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceRenderTextureTex_8:
+        m_Texture: {fileID: 8400000, guid: 57ebe8324f455fe48834b7520c4c2ce9, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - DistortionUV_DistanceX_1: 1
+    - DistortionUV_DistanceY_1: 1
+    - DistortionUV_Speed_1: 0.276
+    - DistortionUV_WaveX_1: 128
+    - DistortionUV_WaveY_1: 20.247
+    - FishEyeUV_Size_1: 0
+    - KaleidoscopeUV_Number_1: 3.36
+    - KaleidoscopeUV_PosX_1: 0.544
+    - KaleidoscopeUV_PosY_1: 0.238
+    - PositionUV_X_1: 0.436
+    - PositionUV_Y_1: -0.436
+    - ResizeUV_X_1: 0
+    - ResizeUV_Y_1: 0.044
+    - ResizeUV_ZoomX_1: 0.968
+    - ResizeUV_ZoomY_1: 1
+    - SpriteSheetAnimationUV_Frame_1: 120
+    - SpriteSheetAnimationUV_Size_1: 2
+    - TiltDownUV_TiltDownUV_Value_1: 0.131
+    - _Add_Fade_1: 4
+    - _AuraDisplacementPack_Size_1: 1
+    - _AuraDisplacementPack_ValueX_1: 0.162
+    - _AuraDisplacementPack_ValueY_1: 0.162
+    - _BlurHQ_Intensity_1: 0
+    - _BumpScale: 1
+    - _ClippingUp_Value_1: -0.00000015646219
+    - _ColorFilters_Fade_1: 0.618
+    - _ColorMask: 15
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DisplacementPack_Size_1: 1.983
+    - _DisplacementPack_ValueX_1: 0.591
+    - _DisplacementPack_ValueY_1: 0.643
+    - _Displacement_Value_1: 0.209
+    - _DstBlend: 0
+    - _FadeToAlpha_Fade_1: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Hologram_Speed_1: 1
+    - _Hologram_Value_1: 1
+    - _LerpUV_Fade_1: 0.658
+    - _MaskAlpha_Fade_1: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _MorphingPack_Blend_1: 0.133
+    - _MorphingPack_Stranger_1: 4
+    - _OcclusionStrength: 1
+    - _OutlineEmpty_Size_1: 0
+    - _Outline_HDR_1: 2
+    - _Outline_Size_1: 0.192
+    - _Parallax: 0.02
+    - _PatternMovementPack_Intensity_1: 1
+    - _PatternMovementPack_MaskIntensity_1: 1
+    - _PatternMovementPack_Speed_1: 1
+    - _PatternMovementPack_ValueX_1: 0.73
+    - _PatternMovementPack_ValueY_1: 0
+    - _PlasmaFX_Fade_1: 0.509
+    - _PlasmaFX_Speed_1: 0.6
+    - _RGBA_Sub_Fade_1: 2
+    - _ShadowLight_Intensity_1: 1.5
+    - _ShadowLight_NoSprite_1: 1
+    - _ShadowLight_PosX_1: 0
+    - _ShadowLight_PosY_1: 0
+    - _ShadowLight_Precision_1: 9.173
+    - _ShadowLight_Size_1: 16
+    - _ShinyFX_Intensity_1: 2.473
+    - _ShinyFX_Pos_1: 1
+    - _ShinyFX_Size_1: 0.036
+    - _ShinyFX_Smooth_1: 0.641
+    - _ShinyFX_Speed_1: 5.745
+    - _Simple_Displacement_Rotative_Rotation_1: -0.36
+    - _Simple_Displacement_Rotative_Value_1: -0.016
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpriteFade: 1
+    - _SrcBlend: 1
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _TurnAlphaToBlack_Fade_1: 1
+    - _TurnGold_Speed_1: 1.931
+    - _TurnTransparent_Speed_1: 1.001
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _addUV_Fade_1: 0.844
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OutlineEmpty_Color_1: {r: 1, g: 0, b: 0, a: 1}
+    - _Outline_Color_1: {r: 1, g: 0, b: 0, a: 1}
+    - _ShadowLight_Color_1: {r: 0, g: 0.7, b: 1, a: 1}
+    - _TintRGBA_Color_1: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
